@@ -4,3 +4,5 @@ Custom Desk with built in PC.  Open source Arduino firmware for each Pro-Mini an
 ## Water Effect
 
 ## Logo Efect
+
+## LEDs for the motherboard
